@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! ANPV DevOps Coaching center Registration Form!!!</h1>
+    <h1>Welcome to all!! ANPV DevOps Coaching Center Registration Form!!!</h1>
     <p>Please fill in this form for registration.thank you from punith!!!</p>
     <hr>
     <br>  
